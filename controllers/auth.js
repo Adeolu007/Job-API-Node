@@ -29,6 +29,8 @@ const register = async (req, res) => {
     }
 }
 
+//why is it throwing error
+
 const login = async (req, res) => {
     res.send('Login User');
 }
